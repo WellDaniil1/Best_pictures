@@ -1,4 +1,5 @@
 # Case 1
+# Task 1
 # TO DO(Danila): Triangle figure
 def triangle(x,y,a,b,c,color,angle)
 pass
