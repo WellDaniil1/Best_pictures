@@ -9,3 +9,4 @@ pass
 # TO DO(Vova): Rhombus figure
 def rhombus(x,y,a,b,color)
 pass
+Вова я скачал
