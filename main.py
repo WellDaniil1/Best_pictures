@@ -63,3 +63,13 @@ square(-300,300,30,0,'blue')
 square(-270,330,30,0,'blue')
 rhombus(-285,300,21,45,90,'yellow')
 rhombus(-285,300,58,255,30,'yellow')
+
+square(300,300,30,0,'red')
+square(300,330,30,0,'red')
+square(450,300,30,0,'red')
+square(360,360,30,0,'red')
+
+triangle(330,300,42,30,45,45,90,'red')
+triangle(360,360,42,30,225,45,90,'red')
+triangle(420,330,42,30,135,45,90,'pink')
+triangle(390,330,42,30,315,45,90,'pink')
